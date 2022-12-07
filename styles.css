@@ -5,12 +5,15 @@ background-color: rgb(204, 115, 115);
 font-family: 'Everson Mono', sans-serif;
 }
 
-.profile-pic{
-    height:250px;
+img{
+    max-height: 250px;
     width:auto;
-    
-display:flex;
-justify-content: center;
+}
+.profile-pic{
+    width:auto;
+
+    display:flex;
+    justify-content: center;
 }
 
 h1{
@@ -18,8 +21,11 @@ h1{
     
 }
 
+
 .description-container{
     display:flex;
     margin: 50px;
+    
 
 }
+
