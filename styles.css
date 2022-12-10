@@ -80,6 +80,8 @@ display:flex;
 justify-content: space-around;
 padding:16px;
 background-color: #eee;
+flex-shrink:0;
+
 
 
 }
